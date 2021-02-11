@@ -1,0 +1,25 @@
+.grid-column img{
+    height: 70px;
+}
+#inner{
+    width: 95%;
+    background-color: #F7FFFB;
+    padding: 35px 20px;
+    text-align: center;
+    margin: 10px;
+    height: 250px;
+    border-radius: 7px;
+}
+#inner img{
+    height: 70px;
+}
+#inner:hover{
+    background-color: white;
+    box-shadow: 5px 5px 10px gray;
+}
+/* .about-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+} */
